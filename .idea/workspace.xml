@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e7bd606-02f9-464f-b8bd-e5cf9fdbca09" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/lib" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\studys\Maven\repository" />
+        <option name="mavenHome" value="D:/studys/Maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\studys\Maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="12" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="12" />
+  </component>
+  <component name="ProjectId" id="1T6v7o8Q7kxYQGIs3aajNJFjWub" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.64410734" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA\workspace\hiboot\src\main\resources\templates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.HibootApplication">
+    <configuration name="MyTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hiboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ruixun.hiboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ruixun.hiboot" />
+      <option name="MAIN_CLASS_NAME" value="com.ruixun.hiboot.MyTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hiboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ruixun.hiboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ruixun.hiboot" />
+      <option name="MAIN_CLASS_NAME" value="com.ruixun.hiboot.MyTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyTest.testRepository" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hiboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ruixun.hiboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ruixun.hiboot" />
+      <option name="MAIN_CLASS_NAME" value="com.ruixun.hiboot.MyTest" />
+      <option name="METHOD_NAME" value="testRepository" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TkTest.addUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hiboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ruixun.hiboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ruixun.hiboot" />
+      <option name="MAIN_CLASS_NAME" value="com.ruixun.hiboot.TkTest" />
+      <option name="METHOD_NAME" value="addUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HibootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hiboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ruixun.hiboot.HibootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyTest.test3" />
+        <item itemvalue="JUnit.MyTest.testRepository" />
+        <item itemvalue="JUnit.MyTest.test" />
+        <item itemvalue="JUnit.TkTest.addUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e7bd606-02f9-464f-b8bd-e5cf9fdbca09" name="Default Changelist" comment="" />
+      <created>1572793194430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572793194430</updated>
+      <workItem from="1572793198243" duration="844000" />
+      <workItem from="1572794100044" duration="387000" />
+      <workItem from="1572794530384" duration="736000" />
+      <workItem from="1572795295573" duration="176000" />
+      <workItem from="1572795519558" duration="105000" />
+      <workItem from="1572795645955" duration="86000" />
+      <workItem from="1572795738577" duration="420000" />
+      <workItem from="1572796224237" duration="58000" />
+      <workItem from="1572796293036" duration="168000" />
+      <workItem from="1572796523388" duration="16000" />
+      <workItem from="1572796572392" duration="1082000" />
+      <workItem from="1572798052855" duration="9000" />
+      <workItem from="1572832779845" duration="283000" />
+      <workItem from="1572834829641" duration="33000" />
+      <workItem from="1572835050443" duration="34000" />
+      <workItem from="1572835088726" duration="2000" />
+      <workItem from="1572835219829" duration="7000" />
+      <workItem from="1572835876507" duration="13000" />
+      <workItem from="1572842716238" duration="22000" />
+      <workItem from="1572842772477" duration="996000" />
+      <workItem from="1572850462896" duration="172000" />
+      <workItem from="1572853941749" duration="23000" />
+      <workItem from="1572854251905" duration="9000" />
+      <workItem from="1572854296433" duration="15000" />
+      <workItem from="1572854424575" duration="7000" />
+      <workItem from="1572854576068" duration="181000" />
+      <workItem from="1572854798435" duration="413000" />
+      <workItem from="1572855230638" duration="1000" />
+      <workItem from="1572856087007" duration="435000" />
+      <workItem from="1572856542361" duration="505000" />
+      <workItem from="1572857081400" duration="132000" />
+      <workItem from="1572857240257" duration="614000" />
+      <workItem from="1572857881276" duration="926000" />
+      <workItem from="1572865525943" duration="1081000" />
+      <workItem from="1572869911714" duration="740000" />
+      <workItem from="1572870684191" duration="56000" />
+      <workItem from="1572870758454" duration="1087000" />
+      <workItem from="1572871912370" duration="868000" />
+      <workItem from="1572872862460" duration="19000" />
+      <workItem from="1572872912755" duration="2185000" />
+      <workItem from="1572875157104" duration="208000" />
+      <workItem from="1572875391587" duration="217000" />
+      <workItem from="1572875651330" duration="574000" />
+      <workItem from="1572876318263" duration="116000" />
+      <workItem from="1572876437851" duration="2000" />
+      <workItem from="1572876501414" duration="364000" />
+      <workItem from="1572876896107" duration="227000" />
+      <workItem from="1572877167631" duration="244000" />
+      <workItem from="1572877429768" duration="42000" />
+      <workItem from="1572877506623" duration="180000" />
+      <workItem from="1572877748902" duration="497000" />
+      <workItem from="1572878285127" duration="806000" />
+      <workItem from="1572879149353" duration="2064000" />
+      <workItem from="1572881266083" duration="330000" />
+      <workItem from="1572881624604" duration="739000" />
+      <workItem from="1572882400077" duration="3789000" />
+      <workItem from="1572886254770" duration="925000" />
+      <workItem from="1572887218793" duration="1681000" />
+      <workItem from="1572888972364" duration="362000" />
+      <workItem from="1572889379380" duration="130000" />
+      <workItem from="1572889524690" duration="23000" />
+      <workItem from="1572889573578" duration="570000" />
+      <workItem from="1572915394494" duration="3111000" />
+      <workItem from="1572918569240" duration="460000" />
+      <workItem from="1572919055065" duration="130000" />
+      <workItem from="1572919212810" duration="30000" />
+      <workItem from="1572919295854" duration="2591000" />
+      <workItem from="1572921998515" duration="1075000" />
+      <workItem from="1572923122759" duration="388000" />
+      <workItem from="1572923563487" duration="2515000" />
+      <workItem from="1572926198592" duration="2060000" />
+      <workItem from="1572929302810" duration="177000" />
+      <workItem from="1572929494278" duration="336000" />
+      <workItem from="1572933722515" duration="581000" />
+      <workItem from="1572934328594" duration="1728000" />
+    </task>
+    <task id="LOCAL-00001" summary="springboot test">
+      <created>1572935978660</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572935978660</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="springboot test" />
+    <option name="LAST_COMMIT_MESSAGE" value="springboot test" />
+  </component>
+</project>
